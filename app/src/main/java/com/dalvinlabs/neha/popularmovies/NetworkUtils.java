@@ -18,7 +18,7 @@ public class NetworkUtils {
     //MOVIE API and Key
     final static String MOVIE_BASE_URL ="http://api.themoviedb.org/3";
     final static String POSTER_BASE_URL = "http://image.tmdb.org/t/p/w185/";
-    final static String MY_API_KEY = "8d8eb23d2c5bfee6de3a49813d686eb5";//KEY Removed
+    final static String MY_API_KEY = "";//KEY Removed
 
     final static String PARAM_APIKEY = "api_key";
     final static String sortBy_TopRated = "movie/top_rated";
